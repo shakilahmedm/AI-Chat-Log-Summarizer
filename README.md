@@ -10,7 +10,7 @@ This project was built using Google Colab and basic Natural Language Processing 
 
 | File                         | Description                                         |
 |------------------------------|-----------------------------------------------------|
-| `main text summarizer.ipynb` | Google Colab-compatible Jupyter notebook (main code) |
+| `main AI-Chat-Log-Summarizer.ipynb` | Google Colab-compatible Jupyter notebook (main code) |
 | `chat.txt`                   | Sample chat log input                               |
 | `README.md`                  | Documentation and about this project                         |
 | `screenshots/sample-output.png` | Sample screenshot of notebook output             |
